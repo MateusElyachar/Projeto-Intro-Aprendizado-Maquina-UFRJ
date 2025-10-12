@@ -2,7 +2,7 @@
 
 ![Status](https://img.shields.io/badge/status-concluído-success)
 
-Este projeto foi desenvolvido para a disciplina de **Introdução ao Aprendizado de Máquina** (UFRJ), com o objetivo de criar um modelo preditivo para avaliar o risco de inadimplência em solicitações de crédito. A avaliação final foi realizada em uma competição na plataforma Kaggle. [A colocação pode ser vista aqui!](https://www.kaggle.com/competitions/eel-891-2025-01-trabalho-1/leaderboard)
+Este projeto foi desenvolvido para a disciplina de **Introdução ao Aprendizado de Máquina** (UFRJ), com o objetivo de criar um modelo preditivo para avaliar o risco de inadimplência em solicitações de crédito. A avaliação final foi realizada em uma competição na plataforma Kaggle. 
 
 ---
 
@@ -41,4 +41,7 @@ O processo completo está detalhado no `Relatorio_Tecnico.pdf`, mas as principai
    ```
    pip install -r requirements.txt
    ```
-3. O código principal com todo o processo está no arquivo `Trabalho 1.py` 
+3. O código principal com todo o processo está no arquivo `Trabalho 1.py`
+
+
+[A colocação pode ser vista aqui!](https://www.kaggle.com/competitions/eel-891-2025-01-trabalho-1/leaderboard)
